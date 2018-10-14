@@ -1,0 +1,11 @@
+C:\Users\Insuperable\myApp\bin\BNB\Debug\netcoreapp2.1\myApp.deps.json
+C:\Users\Insuperable\myApp\bin\BNB\Debug\netcoreapp2.1\myApp.runtimeconfig.json
+C:\Users\Insuperable\myApp\bin\BNB\Debug\netcoreapp2.1\myApp.runtimeconfig.dev.json
+C:\Users\Insuperable\myApp\bin\BNB\Debug\netcoreapp2.1\myApp.dll
+C:\Users\Insuperable\myApp\bin\BNB\Debug\netcoreapp2.1\myApp.pdb
+C:\Users\Insuperable\myApp\obj\BNB\Debug\netcoreapp2.1\myApp.csprojAssemblyReference.cache
+C:\Users\Insuperable\myApp\obj\BNB\Debug\netcoreapp2.1\myApp.csproj.CoreCompileInputs.cache
+C:\Users\Insuperable\myApp\obj\BNB\Debug\netcoreapp2.1\myApp.AssemblyInfoInputs.cache
+C:\Users\Insuperable\myApp\obj\BNB\Debug\netcoreapp2.1\myApp.AssemblyInfo.cs
+C:\Users\Insuperable\myApp\obj\BNB\Debug\netcoreapp2.1\myApp.dll
+C:\Users\Insuperable\myApp\obj\BNB\Debug\netcoreapp2.1\myApp.pdb
